@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ebecuador",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "ebecuador",
+    "packageName": "com.ebecuador",
+    "packageFolder": "com/ebecuador",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzhlNTk3NjVhNzliMjFhMzhlNDRiMDVhMTM2ZmQ3NzBiZjZiZDFmYzI5MDVjOWIxMDJhYzI2YTVlMmNiNGFkMDhiYjk1NWUyMjIxY2M5ODJhYWQ3YTdmYmQ3MjZiM2VkZGU0NTUxNTdlNTg5ODM4NjlhNDJlNGM3MTA2YmI0MTE=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": []
+  }
+}
